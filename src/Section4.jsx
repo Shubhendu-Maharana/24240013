@@ -21,10 +21,10 @@ const Section4 = () => {
           </div>
           <div>
             <p className="text-[#1da8cd]">SOCIAL</p>
-            <div>
-            <img src="./facebook" alt="" />
-            <img src="./twitter" alt="" />
-            <img src="./instagram" alt="" />
+            <div className="*:invert flex gap-x-2">
+              <img src="./facebook.png" alt="" />
+              <img src="./twitter.png" alt="" />
+              <img src="./instagram.png" alt="" />
             </div>
           </div>
         </div>
